@@ -1,11 +1,11 @@
 html {
-  background-color: rgb(236, 255, 66);
+  background-color: rgb(255, 255, 238);
   font-size: 18px;
 }
 body{
   margin: auto;
   width: 50%;
-  border: 3px solid rgb(255, 21, 21);
+  border: 5px solid rgb(0, 0, 0);
   padding: 10px;
 }
 
