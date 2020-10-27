@@ -2,7 +2,8 @@ html {
   background-color: rgb(255, 255, 238);
   font-size: 18px;
 }
-body{
+
+body {
   margin: auto;
   width: 50%;
   border: 5px solid rgb(0, 0, 0);
@@ -19,4 +20,13 @@ ul {
 
 li {
   margin-left: 20px;
+}
+
+button {
+  padding: 5px;
+}
+
+img {
+  width: 795px;
+  height: 360px;
 }
